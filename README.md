@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) 
 
 <!--
 **pjavier1988/pjavier1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
