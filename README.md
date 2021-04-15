@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, Soy Javier Cornejo 👋
 🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) 
 
 <!--
