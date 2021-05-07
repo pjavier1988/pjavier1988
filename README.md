@@ -1,3 +1,6 @@
+# [![pjavier1988 header](https://github.com/pjavier1988/pjavier1988/blob/main/cabeceraopen.jpg)](https://www.youtube.com/c/OpenSessions)
+
+
 ### Hola, Soy Javier Cornejo 👋
 - 🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) mediante Redes Neuronales.
 - 🌱 Actualmente estoy aprendiendo Machine Learning y otras técnicas de Inteligencia Artificial... Además de Web API con FastAPI
