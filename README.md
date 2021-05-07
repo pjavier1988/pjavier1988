@@ -12,12 +12,13 @@
 
 Soy creador de contenido en YouTube. Mi canal es Open Sessions, y nace como una propuesta para liberar y difundir masivamente el conocimiento. Creo firmemente que, el acceso a la información es un derecho y eso me ha llevado generar contenido, intentando siempre mantener la calidad.
 
+  ---
 
 - 🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) mediante Redes Neuronales.
 - 🌱 Actualmente estoy aprendiendo Machine Learning y otras técnicas de Inteligencia Artificial... Además de Web API con FastAPI
 - 👯 Busco colaborar en proyectos de Web API enfocadas a desplegar proyectos de Inteligencia Artificial. 
 - 📫 Puedes encontrarme en: @open_sessionsl(Twitter), https://www.facebook.com/open.sessions (FB), y en mi canal de YouTube (Open Sessions).
-- 
+
 
 <!--
 **pjavier1988/pjavier1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
