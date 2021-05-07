@@ -2,7 +2,7 @@
 - 🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) mediante Redes Neuronales.
 - 🌱 Actualmente estoy aprendiendo Machine Learning y otras técnicas de Inteligencia Artificial... Además de Web API con FastAPI
 - 👯 Busco colaborar en proyectos de Web API enfocadas a desplegar proyectos de Inteligencia Artificial. 
-- 📫 Puedes encontrarme en: @pjavier1988(Twitter), https://www.facebook.com/open.sessions (FB), y en mi canal de YouTube (Open Sessions).
+- 📫 Puedes encontrarme en: @open_sessionsl(Twitter), https://www.facebook.com/open.sessions (FB), y en mi canal de YouTube (Open Sessions).
 - 
 
 <!--
