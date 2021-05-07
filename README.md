@@ -1,4 +1,4 @@
-# [![pjavier1988 header](https://github.com/pjavier1988/pjavier1988/blob/main/cabeceraopen2.png)](https://www.youtube.com/c/OpenSessions)
+# [![pjavier1988 header](https://github.com/pjavier1988/pjavier1988/blob/main/cabeceraopen3.jpg)](https://www.youtube.com/c/OpenSessions)
 
 
 ### Hola, Soy Javier Cornejo 👋
