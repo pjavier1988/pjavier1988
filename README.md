@@ -10,8 +10,6 @@
 
 ### Hola, Soy Javier Cornejo 👋
 
-Soy creador de contenido en YouTube. Mi canal es Open Sessions, y nace como una propuesta para liberar y difundir masivamente el conocimiento. Creo firmemente que, el acceso a la información es un derecho y eso me ha llevado generar contenido, intentando siempre mantener la calidad.
-
   ---
 
 - 🔭 Actualmente me encuentro trabajando en mi tesis doctoral sobre Resolución de Ecuaciones Diferenciales en Derivadas Parciales (EDP) mediante Redes Neuronales.
